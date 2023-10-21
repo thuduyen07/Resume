@@ -1,4 +1,4 @@
-<div align='center'> <img src='./thuduyen07.jpg' alt='thuduyen07 image'/> </div>
+<div class="image avatar"> <img src='./thuduyen07.jpg' alt='thuduyen07 image'/> </div>
 
 - Software Development Engineer in Test, Tracer Management Systems Limited.
 - Master student, Faculty of Information Technology, University of Science, Vietnam National University.
