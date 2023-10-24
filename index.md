@@ -18,6 +18,7 @@
 - Nguyen, N. T. T., **Nguyen, D. T. T.**, & Pham, T.B. (2021). Micro-expression recognition based on the fusion between optical flow and dynamic image. The 5th ICMLSC, 115-120.
 
 ## Experience:
+- SDET at Joblogic.
 - SDET at Security Bank Corporation.
 - SDET at DHL.
 - SDET at EPAM.
